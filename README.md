@@ -1,2 +1,2 @@
-# Extra Projects performed during
-Trybe's Web Development course.
+# Extra Projects!
+Projects performed during Trybe's Web Development course.
